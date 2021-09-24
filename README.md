@@ -1,5 +1,7 @@
 # Makine Öğrenme Yöntemleriyle Sahte Kullanıcı Yorumlarının Tespiti
 
+<img src="https://i.hizliresim.com/b7h62o.jpg">
+
 <h3>Proje İçeriği</h3>
 
 <ul>
